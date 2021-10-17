@@ -9,12 +9,12 @@
 9. error occured since i(let) is scope variable, it only lives inside the for loop block.
 10. 3 since length(const) is already defined as prices array length in function block and never be modified. 
 11. [50, 100, 150] since adding elements to discounted(const) array is not redeclaring or reasigning constant, so push is allowed and it returned array with three elements. 
-12.  Given the above Object, write the notation for:  (These should be in your part2.md)
-    1.  student.name 
-    2.  student['Grad Year']
-    3.  student.greeting(); 
-    4.  student['Favorite Teacher'].name  
-    5.  student.courseload[0]
+12.  
+    1. student.name 
+    2. student['Grad Year']
+    3. student.greeting(); 
+    4. student['Favorite Teacher'].name  
+    5. student.courseload[0]
 13. Arithmetic
     1. ‘3’ + 2 output:32 since integers map to their exact string representation
     2. ‘3’ - 2 output:1 since the number is “read” from the string
