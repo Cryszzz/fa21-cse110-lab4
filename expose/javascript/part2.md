@@ -32,8 +32,8 @@
     5.  true == 2 output:false since true is converted to 1. 
     6.  true === Boolean(2) output:true since Boolean(2) outputs true. 
 15.  === checks the equality without type conversion. == checks equality with type conversion. 
-16. [2, 4, 6] since in the for loop, each element in the array is called with the dosomething function (which doubled the value) and new value is pushed to newArr. And newArr is returned by modifyArray.
-17.  What is the output of the above code? (This should be in your part2.md)
+17. [2, 4, 6] since in the for loop, each element in the array is called with the dosomething function (which doubled the value) and new value is pushed to newArr. And newArr is returned by modifyArray.
+19.  What is the output of the above code? (This should be in your part2.md)
     1
     4
     3
